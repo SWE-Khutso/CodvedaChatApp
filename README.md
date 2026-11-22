@@ -33,13 +33,15 @@ CodvedaChatApp/
 ### In NetBeans
 1. Open the project in NetBeans and click **Clean and Build**.
 2. Right-click `Server.java` → **Run File**. The output shows `Server has started...`.
-3. Open two or more Command Prompt / Terminal windows and run:
+3. When `Server.java` is running, Right-click `Client.java` → **Run File**. repeat this step to add more chats/clients.
+4. *Alternative for step 3;*
+   Open two or more Command Prompt / Terminal windows and run:
    ```
    cd path\to\CodvedaChatApp
    java -cp build\classes Client
    ```
    (On Mac/Linux use `/` instead of `\`.)
-4. Enter a different name in each window and start chatting.
+5. Enter a different name in each window and start chatting.
 
 ### From the command line
 ```
