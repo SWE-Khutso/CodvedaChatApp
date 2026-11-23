@@ -1,6 +1,6 @@
 /**
  *
- * @author Khutso Elias Elias
+ * @author Khutso Elias Langa
  */
 import java.util.*;
 import java.io.*;
